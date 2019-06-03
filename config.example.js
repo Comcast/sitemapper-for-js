@@ -16,6 +16,10 @@
  * /
  */
 
+ /*
+ * ** IMPORTANT ** RENAME THIS FILE TO 'config.js' BEFORE RUNNING THE SCRIPT
+ */
+
 module.exports  = {
     base: 'https://www.xfinity.com/mobile/', // base url of the website
     urls: [
