@@ -59,3 +59,12 @@ typings/
 
 # next.js build output
 .next
+
+# ignore XML output file
+*.xml
+
+# ignore sitemap json
+sitemap.json
+
+# ignore config file
+config.js
