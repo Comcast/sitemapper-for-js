@@ -9,6 +9,6 @@
         "http": "0.0.0",
         "paralleljs": "^0.2.1",
         "puppeteer": "^1.14.0",
-        "underscore": "^1.9.1"
+        "underscore": "^1.12.1"
     }
 }
